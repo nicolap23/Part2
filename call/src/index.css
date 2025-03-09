@@ -1,0 +1,27 @@
+h2 {
+    color: green;
+  }
+
+
+
+  .error {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px 0px;
+    display: block;
+  }
+
+  .aprove{
+
+    color: white;
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px 0px;
+    display: block;
+
+  }
